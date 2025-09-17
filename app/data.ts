@@ -133,3 +133,10 @@ export const contactReasons = [
   "Set up a recycling pickup",
   "Other"
 ];
+
+export {
+  inventory,
+  inventoryAlloys,
+  inventoryMaterials,
+  inventoryShapes
+} from "./data/inventory";
