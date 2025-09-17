@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { featuredInventory, heroHighlights } from "../data";
+import { QuickSearch } from "../components/QuickSearch";
 
 export const metadata: Metadata = {
   title: "Inventory"
@@ -30,6 +31,11 @@ export default function InventoryPage() {
               <span key={item} className="tag" style={{ background: "rgba(15,23,42,0.08)" }}>{item}</span>
             ))}
           </div>
+        </div>
+      </section>
+      <section>
+        <div className="container">
+          <QuickSearch />
         </div>
       </section>
       <section>

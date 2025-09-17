@@ -26,7 +26,7 @@ export default function SawCuttingTolerancePage() {
           <div className="card">
             <h2 style={{ marginTop: 0 }}>Tolerance Overview</h2>
             <ul style={{ marginTop: 16, paddingLeft: 20, color: "var(--color-muted)", display: "grid", gap: 8 }}>
-              <li>Plate saw cutting to ±0.005\" on thicknesses up to 8\"</li>
+              <li>Plate saw cutting to ±0.005&quot; on thicknesses up to 8&quot;</li>
               <li>Bundle cutting tolerances by alloy and cross-section</li>
               <li>Miter and angle cutting best practices</li>
               <li>Surface finish expectations after saw cutting and deburring</li>

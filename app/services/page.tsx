@@ -49,7 +49,7 @@ export default function ServicesPage() {
           <div className="gradient-card" style={{ padding: 48 }}>
             <h2 style={{ marginTop: 0 }}>Saw Cutting Capabilities</h2>
             <ul style={{ marginTop: 12, paddingLeft: 20, color: "var(--color-muted)", display: "grid", gap: 8 }}>
-              <li>Plate saws with 60\" x 144\" tables and 12\" thickness capacity</li>
+              <li>Plate saws with 60&quot; x 144&quot; tables and 12&quot; thickness capacity</li>
               <li>Automatic feed saws for bundle cutting and production runs</li>
               <li>Angle, miter, and contour cutting to meet print specifications</li>
               <li>Deburring, packaging, and part identification services available</li>

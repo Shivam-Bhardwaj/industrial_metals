@@ -18,7 +18,7 @@ export function ContactForm() {
           Call us directly at <a href="tel:+14082942334">(408) 294-2334</a> or email <a href="mailto:sales@industrialmetalservice.com">sales@industrialmetalservice.com</a>.
         </p>
         <div className="badge-grid">
-          <span className="badge">Saw Cutting to ±0.005\"</span>
+          <span className="badge">Saw Cutting to ±0.005&quot;</span>
           <span className="badge">Mill Test Reports</span>
           <span className="badge">Same-Day Pickup</span>
           <span className="badge">Recycling Credits</span>
